@@ -1,5 +1,5 @@
 # calculatrice26x
-## Version JAVA sur la branche JAVA
+## Version C# sur la branche "vC"
 
 ## pas encore finit ! 
 
